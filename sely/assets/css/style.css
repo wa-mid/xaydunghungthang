@@ -13869,7 +13869,7 @@ p {
 }
 p {
     line-height: 1.63;
-    font-size: 1rem;
+    font-size: 1.1rem;
 }
 p:before {
     margin-top: -0.405em;
@@ -16698,7 +16698,7 @@ select.form-control {
     margin-bottom: 0;
 }
 .nav {
-    font-size: 0.875rem;
+    font-size: 1.1rem;
 }
 .nav li {
     margin-bottom: 0;
@@ -19525,8 +19525,8 @@ body:not([class*="page-header-absolute-and-no-title-and-content-full-width"]):no
 .site-footer #swipebox-container,
 .site-footer .wrapper {
     position: relative;
-    padding-top: 3.125rem;
-    padding-bottom: 3.125rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 @media (max-width: 767px) {
     .site-footer #swipebox-container .footer .copyright,
